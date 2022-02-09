@@ -4,7 +4,9 @@ h1{
 }
 h2{
     color: azure;
-    background-color: aqua;
+    background-color: aqua ;
+    padding: 50px;
+    margin: 50px;
 }
 h3{
     color: bisque;
